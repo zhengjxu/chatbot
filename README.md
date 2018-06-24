@@ -1,5 +1,5 @@
 # chatbot
-Build a ChatBot
+Build a ChatBot using seq2seq on gunthercox data set. Since the data set is very small, use pretrained word embedding. 
 
 # architecture
 ![architecture](images/architecture.png)
